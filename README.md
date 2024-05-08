@@ -1,0 +1,2 @@
+# SqlPractice
+To get knowledge
