@@ -1,0 +1,176 @@
+Python:
+	
+1. Introduction, Installation, Variables, Keywords:
+   - Introduction to Python programming language.
+   - Installation of Python interpreter.
+   - Basics of variables, data types, and keywords in Python.
+
+
+2. Data Types, Comments, Typecasting, Number Systems:
+   - Detailed exploration of Python data types like int, float, string, list, tuple, etc.
+   - Comments in Python code.
+   - Typecasting between different data types.
+   - Understanding different number systems like binary, octal, and hexadecimal.
+
+
+3. Python Strings and Python Operators:
+   - Manipulating strings in Python.
+   - Various string operations and methods.
+   - Introduction to different operators in Python (arithmetic, comparison, logical, etc.).
+
+
+4.Conditional Statements and Looping Statements:
+   - Using if, elif, else statements for conditional execution.
+   - Different types of loops in Python: for loop, while loop.
+   - Control flow statements: break, continue.
+
+
+5. Python List, Tuple, and its Inbuilt Functions:
+   - List and tuple data structures in Python.
+   - Built-in functions and methods for working with lists and tuples.
+
+
+6. Python Set, Dictionary, and its Inbuilt Functions:
+   - Sets and dictionaries in Python.
+   - Operations and methods for sets and dictionaries.
+
+
+7. Python Modules and Inbuilt Functions:
+   - Creating and using modules in Python.
+   - Exploring some commonly used built-in functions in Python.
+
+
+8. Python Functions, Lambda Functions, and Arrays:
+   - Defining and using functions in Python.
+   - Introduction to lambda functions.
+   - Working with arrays using libraries like NumPy.
+
+
+9. Python Exception Handling:
+   - Handling exceptions and errors in Python using try-except blocks.
+
+
+
+
+10. Python File Handling:
+    - Reading from and writing to files in Python.
+    - Various file handling operations.
+
+
+11. Python OOPs (Classes, Inheritance, Encapsulation):
+    - Object-Oriented Programming concepts in Python.
+    - Defining classes, inheritance, encapsulation principles.
+
+
+12. Python OOPs (Polymorphism, and Data Abstraction):
+    - Polymorphism and data abstraction in Python.
+
+
+13. Python Multithreading and Multiprocessing:
+    - Concurrent programming using threads and processes in Python.
+
+
+14. Python Libraries (NumPy, Pandas, Matplotlib):
+    - Overview of popular Python libraries for numerical computing, data analysis, and visualization.
+
+
+15. Python SQL (Connection, Create Database, Retrieve, Update, Delete):
+    - Interacting with databases using Python's built-in or external libraries.
+
+
+16. Python SQL (Python and SQL Combined Query):
+    - Integration of Python with SQL for data manipulation and retrieval.
+
+
+SQL:
+
+
+1. SQL Introduction
+2. SQL Syntax
+3. SQL SELECT Statement
+4. SQL DISTINCT Clause
+5. SQL WHERE Clause
+6. SQL AND, OR, NOT Operators
+7. SQL ORDER BY Keyword
+8. SQL INSERT INTO Statement
+9. SQL UPDATE Statement
+10. SQL DELETE Statement
+11. SQL TOP, LIMIT, and ROWNUM Clause SqlNotes2
+12. SQL Functions (e.g., COUNT, SUM, AVG, MIN, MAX)
+13. SQL JOINs (e.g., INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN)
+14. SQL GROUP BY Clause
+15. SQL HAVING Clause
+16. SQL Subqueries
+17. SQL EXISTS Operator  SqlNotes1
+18. SQL ANY and ALL Operators SqlNotes3
+19. SQL IN Operator
+20. SQL BETWEEN Operator
+21. SQL LIKE Operator
+22. SQL Wildcards
+23. SQL Views
+24. SQL Indexes
+25. SQL Constraints
+26. SQL AUTO INCREMENT Field
+27. SQL Dates
+28. SQL NULL Values
+29. SQL Comments
+30.SQL Joins (e.g., CROSS JOIN, NATURAL JOIN)
+31.SQL Self JOIN
+32.SQL UNION Operator
+33.SQL INTERSECT Operator
+34.SQL EXCEPT Operator
+35.SQL Transactions
+36.SQL Triggers
+37.SQL User-Defined Functions
+38.SQL Stored Procedures
+39.SQL Data Types (e.g., INT, VARCHAR, DATE, FLOAT)
+40.SQL Constraints (e.g., PRIMARY KEY, FOREIGN KEY, UNIQUE)
+41.SQL Aggregate Functions (e.g., GROUP_CONCAT, STDDEV, VARIANCE)
+42.SQL Window Functions (e.g., ROW_NUMBER, RANK, DENSE_RANK)
+43.SQL CASE Statement
+44.SQL COALESCE Function
+45.SQL ISNULL Function
+46.SQL IFNULL Function
+47.SQL NULLIF Function
+48.SQL Subquery (e.g., correlated subquery)
+49.SQL Temporary Tables
+50.SQL Database Administration
+51.SQL Data Manipulation Language (DML)
+52.SQL Data Definition Language (DDL)
+53.SQL Data Control Language (DCL)
+54.SQL Data Query Language (DQL)
+55.SQL Aliases
+56.SQL Views
+57.SQL Stored Procedures
+58.SQL User-Defined Functions (UDFs)
+59.SQL Cursors
+60.SQL Error Handling
+61.SQL Transactions
+62.SQL Database Normalization
+63.SQL Indexing
+64.SQL Triggers
+65.SQL Cursors
+
+
+
+Django:(Add On)
+
+ 
+1. Django Introduction
+2. Django Installation
+3. Django Project
+4. Django Apps
+5. Django Templates
+6. Django Models
+7. Django Admin Interface
+8. Django Views
+9. Django Forms
+10. Django URLs
+11. Django Database
+12. Django Signals
+13. Django Middleware
+14. Django Sessions
+15. Django File Handling
+
+
+
